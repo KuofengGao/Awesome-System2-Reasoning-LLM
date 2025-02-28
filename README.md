@@ -150,6 +150,7 @@ This timeline tracks the development of reasoning LLMs, focusing on the evolutio
 * Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata [[Paper]](https://aclanthology.org/2024.naacl-short.42/) ![](https://img.shields.io/badge/NAACL-2024-blue)
 * Look-back Decoding for Open-Ended Text Generation [[Paper]](https://aclanthology.org/2023.emnlp-main.66/) ![](https://img.shields.io/badge/EMNLP-2023-blue)
 ## Part 5: Self-Training / Self-Improve
+* Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning [[Paper]](https://arxiv.org/abs/2410.10735) ![](https://arxiv.org/abs/2410.10735)
 * Small LLMs Can Master Reasoning with Self-Evolved Deep Thinking (Rstar-Math) [[Paper]](https://arxiv.org/abs/2501.04519) ![](https://img.shields.io/badge/arXiv-2025.01-red)
 * ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search [[Paper]](https://arxiv.org/abs/2406.03816) ![](https://img.shields.io/badge/arXiv-2024.12-red)
 * Recursive Introspection: Teaching Language Model Agents How to Self-Improve [[Paper]](https://openreview.net/forum?id=DRC9pZwBwR) ![](https://img.shields.io/badge/NeurIPS-2024-blue)
